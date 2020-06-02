@@ -4,5 +4,6 @@ public class GitTest {
     public void test(){
         System.out.println("这是一个测试方法");
         System.out.println("更新1");
+        //添加一个注释
     }
 }
